@@ -4,7 +4,6 @@
 > understanding employee attrition patterns across departments, job
 > roles, age groups, gender, education, job satisfaction, and overtime.
 
-![HR Analytics Dashboard](IMG_20260917_070656.jpg)
 ##  Project Overview
 
 Employee attrition is an important HR metric because it helps
